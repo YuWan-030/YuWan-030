@@ -1,16 +1,14 @@
-## Hi there 👋
+<div id="title" align=center>
 
-<!--
-**YuWan-030/YuWan-030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuWan-030&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-Here are some ideas to get you started:
+[![MC百科](https://img.shields.io/badge/MC%E7%99%BE%E7%A7%91-YuWan030-green)](https://center.mcmod.cn/818064/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-YuWan030-blue)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![modern cpp](https://img.shields.io/badge/code-Python_Java-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+![头像](image/头像.jpg)
+
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=YuWan-030
